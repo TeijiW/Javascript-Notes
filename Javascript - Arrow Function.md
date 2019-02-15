@@ -32,7 +32,7 @@ No exemplo acima, o retorno é **implícito**
 
 ```javascript
 let função = function(Parâmetro1*Parâmetro1) {
-    return "Olá
+    return "Olá"
 }
 
 função = () => "Olá"
