@@ -45,7 +45,7 @@ console.log(pessoa) // { nome: "Teiji", idade: 16 }
 
 ```javascript
 delete objeto.chave1 
-delete objeto["chave1]	
+delete objeto["chave1"]	
 ```
 
 
